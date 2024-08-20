@@ -7,9 +7,8 @@ __pycache__/
 *.so
 
 # Streamlit 
-.streamlit
-.streamlit\config.toml
 .streamlit\secrets.toml
+\secrets.toml
 
 # Excel File
 ScrappedFiles
